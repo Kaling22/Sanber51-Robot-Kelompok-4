@@ -1,0 +1,36 @@
+#Login
+Click button sign in on home page
+Input username
+Input password
+Click button sign in
+
+#Book Steps
+Click button book on home page
+Click radio button from city
+Click from city (toronto)
+Click radio button to city
+Click to city (london)
+Click radio button class
+Click first class
+Click start date
+Click date
+Click button oke
+Click end date
+Click date end
+Click flight
+Click button book
+Click price (optional)
+Click button confirm
+
+#Search Steps
+Click button search on home page
+Input flight number
+Click button search
+
+#Check in Steps
+Login appp flight
+Click button check in on home page
+
+#Sign Out Steps
+Login app flight
+Click button sign out on home page

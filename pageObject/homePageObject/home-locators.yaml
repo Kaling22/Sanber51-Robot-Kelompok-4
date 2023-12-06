@@ -1,0 +1,30 @@
+sign-in-button: '//*[@resource-id="com.example.myapplication:id/login"]'
+
+#Book Page
+book-button: '//*[@resource-id="com.example.myapplication:id/book"]'
+from-city-button: '//*[@resource-id="com.example.myapplication:id/spinnerFrom"]'
+toronto: '//*[@resource-id="android:id/text1" and @text="Toronto"]'
+to-city-button: '//*[@resource-id="com.example.myapplication:id/spinnerTo"]'
+london: '//*[@resource-id="android:id/text1" and @text="Paris"]'
+class-button: '//*[@resource-id="com.example.myapplication:id/spinnerClass"]'
+first-class: '//*[@resource-id="android:id/text1" and @text="First"]'
+start-date: '//*[@resource-id="com.example.myapplication:id/textStartDate"]'
+august-01: '//*[@content-desc="01 August 2019"]'
+ok-button-start-date: '//*[@resource-id="android:id/button1"]'
+end-date: '//*[@resource-id="com.example.myapplication:id/textEndDate"]'
+august-03: '//*[@content-desc="03 August 2019"]'
+ok-button-end-date: '//*[@resource-id="android:id/button1"]'
+flight: '//*[@resource-id="com.example.myapplication:id/radioButtonFlight"]'
+book-button-page: '//*[@resource-id="com.example.myapplication:id/book_flight"]'
+confirm-button: '//*[@resource-id="com.example.myapplication:id/confirm_order"]'
+
+#Search Page
+search-button-home-page: '//*[@resource-id="com.example.myapplication:id/search_flight"]'
+input-flight-number: '//*[@resource-id="com.example.myapplication:id/flight_number"]'
+search-button: '//*[@resource-id="com.example.myapplication:id/searchFlight"]'
+
+#Check in
+check-in-button: '//*[@resource-id="com.example.myapplication:id/button6"]'
+
+#Sign Out
+sign-out-button: '//*[@resource-id="com.example.myapplication:id/login"]'
