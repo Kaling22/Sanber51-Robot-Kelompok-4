@@ -1,0 +1,3 @@
+username-login: '//*[@resource-id="com.example.myapplication:id/username"]'
+password-login: '//*[@resource-id="com.example.myapplication:id/password"]'
+sign-in-button-login: '//*[@resource-id="com.example.myapplication:id/signIn"]'
